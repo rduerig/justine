@@ -1,4 +1,4 @@
-package com.github.rduerig.justine.internal;
+package justine.internal;
 
 /**
  * @author rduerig

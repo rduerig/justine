@@ -1,10 +1,11 @@
-package com.github.rduerig.justine.api;
+package justine.api;
 
 import java.util.List;
 
-import com.github.rduerig.justine.api.data.Follow;
-import com.github.rduerig.justine.api.parameters.DateSortDirection;
 import com.google.common.base.Optional;
+
+import justine.api.data.Follow;
+import justine.api.parameters.DateSortDirection;
 
 /**
  * @author rduerig

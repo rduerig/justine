@@ -1,4 +1,4 @@
-package com.github.rduerig.justine.api.parameters;
+package justine.api.parameters;
 
 public enum DateSortDirection {
 	
